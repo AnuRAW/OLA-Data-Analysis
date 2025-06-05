@@ -21,15 +21,17 @@ This project simulates ride-hailing data for Ola in Bengaluru city using a synth
 - 💰 Revenue by Payment Method (Cash, UPI, Credit Card, etc.)
 - 🥇 Top 5 Customers by Total Booking Value
 - 📅 Ride Distance Distribution Per Day
-- 
+- https://github.com/AnuRAW/OLA-Data-Analysis/blob/main/Revenue.png
 
 ### 🔹 Cancellation Analysis
 - ❌ Cancelled Rides Reasons (Customer)
 - ❌ Cancelled Rides Reasons (Driver)
+- https://github.com/AnuRAW/OLA-Data-Analysis/blob/main/Cancellation.png
 
 ### 🔹 Ratings
 - 📊 Driver Ratings Distribution
 - 🔁 Customer vs Driver Ratings (Scatter Plot)
+- https://github.com/AnuRAW/OLA-Data-Analysis/blob/main/Ratings.png
 
 ---
 
